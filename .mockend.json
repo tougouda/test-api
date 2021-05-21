@@ -1,6 +1,6 @@
 {
   "Agency": {
-    "id": "char[3]",
+    "id": "string",
     "label": "string"
   }
 }
