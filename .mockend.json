@@ -1,11 +1,17 @@
 {
-  "Area": {
+  "Country": {
     "id": "string",
     "label": "string"
+  },
+  "Area": {
+    "id": "string",
+    "label": "string",
+    "country": "Country"
   },
   "Agency": {
     "id": "string",
     "label": "string",
+    "country": "Country",
     "area": "Area"
   }
 }
