@@ -11,16 +11,16 @@
     "post": "Post"
   },
   "Country": {
-    "id": "string",
+    "code": "string",
     "label": "string"
   },
   "Area": {
-    "id": "string",
+    "code": "string",
     "label": "string",
     "country": "Country"
   },
   "Agency": {
-    "id": "string",
+    "code": "string",
     "label": "string",
     "country": "Country",
     "area": "Area"
